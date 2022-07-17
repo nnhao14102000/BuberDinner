@@ -90,6 +90,11 @@ BuberDinner.Api.csproj
 7 <UserSecretsId>a4f2421f-f23d-4515-baaf-22b03eaf0bda</UserSecretsId>
 ...
 ```
+
+```js
+Director in Command Line:
+D:/.../BuberDinner :
+```
 #### Init
 
 ```js
